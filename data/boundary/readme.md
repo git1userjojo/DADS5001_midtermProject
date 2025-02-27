@@ -1,0 +1,2 @@
+Thailand administrative boundaries reference: https://data.humdata.org/dataset/cod-ab-tha
+Asia-Oceania boundary reference: https://geojson-maps.kyd.au/
