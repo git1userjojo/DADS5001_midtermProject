@@ -1,0 +1,110 @@
+HS_CODE,description
+3825200,Sewage sludge
+3825490,Other waste organic solvents
+3825500,"Wastes of metal pickling liquors, hydraulic fluids, brake fluids and anti-freeze fluids"
+3825690,Other wastes from chemical or allied industries
+3825900,"Other residual products of the chemical or allied industries, not elsewhere specified or included"
+3915100,"WASTE, PARINGS AND SCRAP OF POLYMERS OF ETHYLENE."
+3915200,"WASTE, PARINGS AND SCRAP OF POLYMERS OF STYRENE."
+3915300,"WASTE, PARINGS AND SCRAP OF POLYMERS OF VINYL CHLORIDE."
+3915900,"WASTE, PARINGS AND SCRAP OF OTHER PLASTICS."
+4004000,"WASTE, PARINGS AND SCRAP OF RUBBER (OTHER THAN HARD RUBBER) AND POWDERS AND GRANULES OBTAINED THEREFROM."
+4401100,"FUEL WOOD, IN LOGS, IN BILLETS, IN TWIGS, IN FAGGOTS OR IN S IMILAR FORMS."
+4401210,CONIFEROUS WOOD IN CHIPS OR PARTICLES.
+4401220,EUCALYPTUS IN CHIPS OR PARTICLES.
+4401300,"SAWDUST, WOOD WAST AND SCRAP, WHETHER OR NOT AGGLOMERATED IN LOGS, BRIQUETTES, PELLETS OR SIMILAR FORMS."
+4707100,WASTE AND SCRAP OF UNBLEACHED KRAFT PAPER OR PAPERBOARD OR O F CORRUGATED PAPER OR PAPERBOARD.
+4707200,"WASTE AND SCRAP OF OTHER PAPER OR PAPERBOARD MADE MAINLY OF BLEACHED CHEMICAL PULP, NOT COLOURED IN THE MASS."
+4707300,"WASTE AND SCRAP OF PAPER OR PAPERBOARD MADE MAINLY OF MECHAN ICAL PULP ( E.G. NEWSPAPER, JOURNALS )."
+4707900,"OTHER, INCLUDING UNSORTED WASTE AND SCRAP."
+6310100,"USED OR NEW RAGS,SCARP TWINE,CORDAGE,ROPE AND CABLES AND WOR N OUT ARTICLES OF TWINE,CORDAGE,ROPE OR CABLES,OF TEXTILE MA TERIALS,SORTED"
+6310900,"OTHER USED OR NEW RAGS,SCARP TWINE,CORDAGE,ROPE AND CABLES A ND WORN OUT ARTICLES OF TWINE,CORDAGE,ROPE OR CABLES,OF TEXT ILE MATERIALS,SORTED"
+7001000,CULLET AND OTHER WASTE AND SCRAP OF GLASS; GLASS IN THE MASS
+7204100,FERROUS WASTE AND SCRAP OF CAST IRON
+7204210,FERROUS WASTE AND SCRAP OF STAINLESS STEEL
+7204290,FERROUS WASTE AND SCRAP OF OTHER ALLOY STEEL
+7204300,FERROUS WASTE AND SCRAP OF TINNED IRON OR STEEL
+7204410,"OTHER FERROUS WASTE AND SCRAP, TURNINGS, SHAVINGS, CHIPS MIL LING WASTE, SAWDUST, FILINGS, TRIMMINGS AND STAMPINGS, WHETH ER OR NOT IN BUNDLES"
+7204490,OTHER FERROUS WASTE AND SCRAP OTHER THAN THOSE SPECIFIED ABO VE
+7204500,REMELTING SCRAP INGOTS OF IRON OR STEEL
+7404000,COPPER WASTE AND SCRAP
+7602000,ALUMINUM WASTE AND SCRAP
+38251000,Municipal waste
+38252000,Sewage sludge
+38253010,Clinical waste:
+38253090,"Syringes, needles, cannulae and the like"
+38254100,Other
+38254900,Halogenated
+38255000,Other
+38256100,"Wastes of metal pickling liquors, hydraulic fluids, brake fluids and antifreeze fluids"
+38256900,Other
+38259000,Other
+39151000,#NAME?
+39151010,Of non-rigid cellular products
+39151090,Other
+39152000,#NAME?
+39152090,Other
+39153000,#NAME?
+39153010,Of non-rigid cellular products
+39153090,Other
+39159000,Of other plastics
+39159010,Of Poly(ethylene terephthalate)
+39159020,Of Polypropylene
+39159030,Of Polycarbonate
+39159040,Of Polyvinyl Acetals
+39159050,Of phenolic resins; of amino resins; of hardened proteins; of chemical derivatives of natural rubber
+39159090,Other
+40040000,"Waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom."
+44011000,"Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms"
+44011100,Coniferous
+44011200,Non-coniferous
+44012100,Coniferous
+44012200,Eucalyptus
+44013000,#NAME?
+44013100,Wood pellets
+44013200,Wood briquettes
+44013900,Other
+44014000,"Sawdust and wood waste and scrap, not agglomerated"
+44014100,Sawdust
+44014900,Other
+47071000,Unbleached kraft paper or paperboard or corrugated paper or paperboard
+47072000,"Other paper or paperboard made mainly of bleached chemical pulp, not coloured in the mass"
+47073000,"Paper or paperboard made mainly of mechanical pulp (for example, newspapers, journals and similar printed matter)"
+47079000,"Other, including unsorted waste and scrap"
+63101010,Used or new rags
+63101090,Other
+63109010,Used or new rags
+63109090,Other
+70010000,"Cullet and other waste and scrap of glass, excluding glass from cathode-ray tubes or other activated glass of heading 85.49; glass in the mass."
+72041000,Waste and scrap of cast iron
+72042100,Of stainless steel
+72042900,Other
+72043000,Waste and scrap of tinned iron or steel
+72044100,Other
+72044900,Other
+72045000,Remelting scrap ingots
+74040000,Copper waste and scrap.
+76020000,Aluminium waste and scrap.
+85491111,Of a kind used in aircraft
+85491112,"Other, of subheading 8507.10.92, 8507.10.95, 8507.20.94 or 8507.20.95"
+85491119,Other
+85491120,Waste and scrap containing mainly iron
+85491130,Waste and scrap containing mainly copper
+85491191,Of a kind used in aircraft
+85491199,Other
+85491210,Of primary cells and primary batteries
+85491290,Other
+85491320,Of electric accumulators of a kind used in aircraft
+85491390,Other
+85491410,Of primary cells and primary batteries
+85491490,Other
+85491910,Of primary cells and primary batteries
+85491920,Of electric accumulators of a kind used in aircraft
+85491990,Other
+85492100,"Containing primary cells, primary batteries, electric accumulators, mercury-switches, glass from cathode-ray tubes or other activated glass, or electrical or electronic components containing cadmium, mercury, lead or polychlorinated biphenyls (PCBs)"
+85492900,Other
+85493100,"Containing primary cells, primary batteries, electric accumulators, mercury-switches, glass from cathoderay tubes or other activated glass, or electrical or electronic components containing cadmium, mercury, lead or polychlorinated biphenyls (PCBs)"
+85493900,Other
+85499110,Glass from cathode-ray tubes or other activated glass
+85499190,Other
+85499900,Other
